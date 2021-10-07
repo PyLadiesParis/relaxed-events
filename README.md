@@ -5,4 +5,4 @@
 In this repo, you will find slideshows presented in our Relaxed Event Series.
 All speakers are welcome to contribute by adding their slideshows.
 
-Thank you for our current contributors [@Kramarek](https://twitter.com/Kramarek), [@maudstweets](https://twitter.com/maudstweets) and [laysauchoa](https://twitter.com/laysauchoa)!
+Thank you to our current contributors [@Kramarek](https://twitter.com/Kramarek), [@maudstweets](https://twitter.com/maudstweets) and [laysauchoa](https://twitter.com/laysauchoa)!
